@@ -20,7 +20,8 @@ spring:
   application:
     name: demo-server
   profiles:
-    active:
+    active: dev
+
 
 # mysql日志打印
 logging:
